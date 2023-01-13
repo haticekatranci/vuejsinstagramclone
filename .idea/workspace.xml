@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e3f47f4-618b-4187-bc51-0e8515e53b0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/instagramclone/.prettierrc.js " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagramclone/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagramclone/src/components/CustomText.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagramclone/src/styles/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagramclone/src/styles/variable.css" afterDir="false" />
+    <list default="true" id="1e3f47f4-618b-4187-bc51-0e8515e53b0e" name="Changes" comment="add css">
+      <change afterPath="$PROJECT_DIR$/instagramclone/src/icons/home.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagramclone/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/instagramclone/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagramclone/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/instagramclone/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagramclone/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/instagramclone/src/views/HomeView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagramclone/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagramclone/vue.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +84,23 @@
       <workItem from="1673511414304" duration="207000" />
       <workItem from="1673511622393" duration="23000" />
       <workItem from="1673511844331" duration="68000" />
-      <workItem from="1673511918801" duration="10186000" />
+      <workItem from="1673511918801" duration="14016000" />
     </task>
+    <task id="LOCAL-00001" summary="add css">
+      <created>1673525269776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673525269776</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add css">
+      <created>1673525302106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673525302107</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add css" />
+    <option name="LAST_COMMIT_MESSAGE" value="add css" />
   </component>
 </project>
